@@ -13,8 +13,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     license='MIT License',
-    description='A simple Django model utility that provides to \
-    store primary key id as uuid.',
+    description='A simple Django model utility that provides to store primary key id as uuid.',
     long_description=README,
     url='https://github.com/vaibhavmule/django-uuid-primary-key',
     author='Vaibhav Mule',
