@@ -1,0 +1,1 @@
+# django-uuid-primary-key
