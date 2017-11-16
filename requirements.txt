@@ -1,2 +1,2 @@
-Django==2.0b1
+Django==2.0rc1
 pytz==2017.3
